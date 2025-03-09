@@ -8,19 +8,22 @@
 
 ## Patching Apks / Ipas
 
-* [Patch Ipa ](patching-apks-ipas/patch-ipa.md)
+* [Patch Ipa](patching-apks-ipas/patch-ipa.md)
 * [Patch Apk](patching-apks-ipas/patch-apk.md)
 * [How To Download Patcher](patching-apks-ipas/how-to-download-patcher.md)
 
 ## Getting Setup
 
 * [How To Download Server](getting-setup/how-to-download-server.md)
-* [How To Install](getting-setup/how-to-install.md)
+* [How To Setup](getting-setup/how-to-install.md)
+* [Setting up dlc.](getting-setup/setting-up-dlc..md)
 * [Basic Configuration](getting-setup/basic-configuration.md)
 
-***
+## Towns
 
-* [Running The Sever](running-the-sever.md)
+* [Importing a town.](towns/importing-a-town..md)
+* [Starting A New Town.](towns/starting-a-new-town..md)
+* [Town Switching.](towns/town-switching..md)
 
 ## Dashboard
 
